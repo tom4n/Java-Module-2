@@ -1,4 +1,4 @@
-package vn.tuan.baitapmodule2;
+package vn.tuan.introduction_to_java;
 
 import java.util.Date;
 public class SystemTime {

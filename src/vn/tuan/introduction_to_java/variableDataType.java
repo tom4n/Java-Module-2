@@ -1,4 +1,4 @@
-package vn.tuan.baitapmodule2;
+package vn.tuan.introduction_to_java;
 
 public class variableDataType {
     public static void main(String[] args) {
